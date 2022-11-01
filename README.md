@@ -12,12 +12,13 @@ The theme of the webpage is engineer ethics. In the webpage, we have listed seve
 
 Here is the website link: [Engineer Ethical](https://site-945304-2190-3721.mysxl.cn/) 
 
-![1-Website](1-Website.png)
+![1-Website](https://raw.githubusercontent.com/NorthanX/COMP6250_2022_Toolkit_Intro_Group2/main/1-%20Website.png)
 
 ## 2.Comic for Being an Effective Team Member
 
 The comic is about being an influential team member. We use the comic to draw scenarios to show teamwork and to inspire thinking.
 
-![2-Comic](2-Comic.png)
-
 Here is the comic link: [Comic of effective Team members](https://github.com/wenshilanR/Comic_for_COMP6250_2022_Toolkit_Group2)
+
+![2-Comic](https://raw.githubusercontent.com/NorthanX/COMP6250_2022_Toolkit_Intro_Group2/main/2-%20Comic.png)
+
